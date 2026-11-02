@@ -1,4 +1,4 @@
-const CACHE = "excellearn-markdown-v2";
+const CACHE = "excellearn-markdown-v3";
 const APP = [
   "./",
   "./index.html",
