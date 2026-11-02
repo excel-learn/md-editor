@@ -1,6 +1,7 @@
-const CACHE = "excellearn-markdown-v1";
+const CACHE = "excellearn-markdown-v2";
 const APP = [
-  "./markdown-converter-pwa.html",
+  "./",
+  "./index.html",
   "./manifest.webmanifest",
   "./icon-192.png",
   "./icon-512.png"
